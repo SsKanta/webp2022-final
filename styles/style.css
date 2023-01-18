@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(83, 220, 222);
+    font-family: helvetica, sans-serif;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.center{
+  text-align: center;
+}
+  
+label {
+    font-weight: bold;
+  }
+  
+  div {
+    padding-bottom: 20px;
+    text-align: center;
+  }
+  
+  input[type="text"] {
+    padding: 5px;
+    width: 150px;
+    align-items: center;
+  }
+  
+  p {
+    background: #e08dea;
+    color: #0b0501;
+    padding: 10px;
+    visibility: hidden;
+    text-align: center;
+  }
+h1 {
+    background-color: rgba(1, 1, 1, 0.812);
+    color: white;
+    line-height: 100px;
+    text-align: center;
+}
